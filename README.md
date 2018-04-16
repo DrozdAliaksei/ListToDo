@@ -2,7 +2,7 @@
 
 
 *SQLite
-*Parsel
+*Parcel
 *Dialogs
 *ContentProvider
 *RecycleView
